@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_xSBcQB2xEemyTfH8f8EFSQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_xSBcQR2xEemyTfH8f8EFSQ" comment="Id of the flow" name="flow_id" prompt="flow_id?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_xSBcQh2xEemyTfH8f8EFSQ" comment="Speaking name of the flow" name="flow_name" prompt="flow_name?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_xSBcQx2xEemyTfH8f8EFSQ" comment="Speaking name of workspace" name="flow_workspace" prompt="flow_workspace?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_xSBcRB2xEemyTfH8f8EFSQ" comment="Text representation of version and revision, e.g. 4.25 or 5.81" name="flow_version" prompt="flow_version?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_xSBcRR2xEemyTfH8f8EFSQ" comment="id will be set by the runtime before the flow is executed" name="flow_execution_id" prompt="flow_execution_id?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_xSBcRh2xEemyTfH8f8EFSQ" comment="A datetime value in UTC of the flow start." name="flow_start_datetime" prompt="flow_start_datetime?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_xSBcRx2xEemyTfH8f8EFSQ" comment="Use this context parameter if you want to have some temp folder during action execution in TIC" name="resource_flow_temp_folder" prompt="resource_flow_temp_folder?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>
